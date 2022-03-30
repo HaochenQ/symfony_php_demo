@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Symfony Demo Application
 ========================
 
@@ -57,3 +58,7 @@ $ ./bin/phpunit
 [2]: https://symfony.com/doc/current/reference/requirements.html
 [3]: https://symfony.com/doc/current/cookbook/configuration/web_server_configuration.html
 [4]: https://symfony.com/download
+=======
+# symfony_php_demo
+Test php on Azure App Service
+>>>>>>> 26fe592a29c777295b1736d65c100fcb336f475c
