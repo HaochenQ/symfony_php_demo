@@ -8,7 +8,7 @@ to develop applications following the [Symfony Best Practices][1].
 Requirements
 ------------
 
-  * PHP 7.2.9 or higher;
+  * PHP 7.2.9 or higher; /// Update: Tesing PHP 8.0 on Azure
   * PDO-SQLite PHP extension enabled;
   * and the [usual Symfony application requirements][2].
 
